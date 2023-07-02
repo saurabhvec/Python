@@ -1,0 +1,1 @@
+from BollingerOperation import bollinger_details
